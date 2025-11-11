@@ -5,7 +5,7 @@
 - Validate the TTL file
   - For example, using the [TTL Validator](https://github.com/IDLabResearch/TurtleValidator) developed by IDLab – Ghent University
 
-- Run through [qSKOS](https://github.com/cmader/qSKOS) (`java -jar qSKOS-cmd.jar analyze vocabulary_name.ttl -o report_name`)
+- Run through [qSKOS](https://github.com/cmader/qSKOS) (`java -jar qSKOS-cmd.jar analyze -dc mil,bl vocabulary_name.ttl -o report_name`)
   - Instructions on [how to install it locally](https://github.com/cmader/qSKOS?tab=readme-ov-file#local-installation-)
   - There is also an online [testing tool](https://skos-play.sparna.fr/skos-testing-tool/) in SKOS Play! (but it is sometimes down)
 
