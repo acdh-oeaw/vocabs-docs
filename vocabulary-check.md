@@ -10,6 +10,7 @@
   - There is also an online [testing tool](https://skos-play.sparna.fr/skos-testing-tool/) in SKOS Play! (but it is sometimes down)
 
 - Run through [Skosify](https://github.com/NatLibFi/Skosify)
+  - Run the command `skosify vocab-name_v_0_0_2.ttl -o vocab-name.ttl`
 
 ## Prefixes
 
